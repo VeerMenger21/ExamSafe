@@ -1,2 +1,3 @@
-# SDV-Secure-Document-Vault
-Secure, zero-knowledge document vault built with the MERN stack. Files are encrypted client-side before upload, access is controlled via granular, time-limited permissions, and every action is recorded in a tamper-evident, hash-chained audit log. Includes JWT + 2FA auth and anomaly detection.
+ExamGuard
+
+Secure, AI-powered online examination and proctoring platform built with the MERN stack. Provides secure authentication, real-time exam monitoring, controlled exam sessions, suspicious activity detection, and automated recording of examination events. Designed to maintain exam integrity while providing a smooth and secure experience for students and administrators.
